@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
     <name>serenity-junit</name>
     <properties>
-        <serenity.version>2.0.55</serenity.version>
+        <serenity.version>2.6.0</serenity.version>
         <serenity.maven.version>2.0.55</serenity.maven.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <encoding>UTF-8</encoding>
